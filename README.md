@@ -4,7 +4,6 @@ This repository lists published datasets from Titanica-Nautilica oceanographic e
 
 | Expedition | Year | Location | Data Repository | Dataset DOI / Link | Publication DOI |
 |------------|------|----------|-----------------|-------------|-----------------|
-| 0000_Template | 0000 | | | | |
 | 2011_PS78_Arctic | 2011 | | | | |
 | 2012_NCC_NorwegianCoast | 2012 | | | | |
 | 2012_PS80_Arctic | 2012 | | | | |
